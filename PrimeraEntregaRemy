@@ -1,0 +1,9 @@
+# Producto de dos números
+
+producto_1 = int(input("Ingrese un primer número a multiplicar: "))
+
+producto_2 = int(input("Ingrese un segundo número a multiplicar: "))
+
+producto = producto_1 * producto_2
+
+print("El producto es:", producto)
