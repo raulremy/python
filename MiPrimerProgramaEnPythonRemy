@@ -1,0 +1,9 @@
+# Primer programa en Python: Nota Final
+
+nota_1 = float(input("Ingrese la primera nota: "))
+
+nota_2 = float(input("Ingrese la segunda nota: "))
+
+nota_final = (nota_1 * .4) + (nota_2 * .6)
+
+print("La nota final es: ", nota_final)
